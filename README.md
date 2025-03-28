@@ -1,1 +1,3 @@
-# SQL-Sales-Analysis-project
+SQL-Sales-Analysis-project
+
+Project Overview
